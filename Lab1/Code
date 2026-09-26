@@ -4,33 +4,6 @@ namespace Lab1Variant23
 {
     class Program
     {
-        static void Main()
-        {
-            int m = ReadInt("Введите число m: ");
-            int n = ReadInt("Введите число n: ");
-            double x = ReadDouble("Введите число x: ");
-
-            Console.WriteLine();
-            Console.WriteLine("Задача 1:");
-            Task1(m, n, x);
-            Console.WriteLine();
-
-            double x1 = ReadDouble("Введите число x1: ");
-            double y1 = ReadDouble("Введите число y1: ");
-            bool isIn = IsInArea(x1, y1);
-            Console.WriteLine();
-            Console.WriteLine("Задача 2: точка (" + x1 + ", " + y1 + ") принадлежит области: " + isIn);
-
-            Console.WriteLine();
-            Console.WriteLine("Задача 3:");
-            const double a = 1000.0;
-            const double b = 0.0001;
-            double resD = Task3Double(a, b);
-            float resF = Task3Float((float)a, (float)b);
-            Console.WriteLine("Double: " + resD);
-            Console.WriteLine("Float:  " + resF);
-        }
-
         static int ReadInt(string prompt)
         {
             Console.Write(prompt);
@@ -83,6 +56,33 @@ namespace Lab1Variant23
             float num = (float)Math.Pow(a - b, 3) - ((float)Math.Pow(a, 3) - 3 * (float)Math.Pow(a, 2) * b);
             float den = 3 * a * (float)Math.Pow(b, 2) - (float)Math.Pow(b, 3);
             return num / den;
+        }
+
+        static void Main()
+        {
+            int m = ReadInt("Введите число m: ");
+            int n = ReadInt("Введите число n: ");
+            double x = ReadDouble("Введите число x: ");
+
+            Console.WriteLine();
+            Console.WriteLine("Задача 1:");
+            Task1(m, n, x);
+            Console.WriteLine();
+
+            double x1 = ReadDouble("Введите число x1: ");
+            double y1 = ReadDouble("Введите число y1: ");
+            bool isIn = IsInArea(x1, y1);
+            Console.WriteLine();
+            Console.WriteLine("Задача 2: точка (" + x1 + ", " + y1 + ") принадлежит области: " + isIn);
+
+            Console.WriteLine();
+            Console.WriteLine("Задача 3:");
+            const double a = 1000.0;
+            const double b = 0.0001;
+            double resD = Task3Double(a, b);
+            float resF = Task3Float((float)a, (float)b);
+            Console.WriteLine("Double: " + resD);
+            Console.WriteLine("Float:  " + resF);
         }
     }
 }
