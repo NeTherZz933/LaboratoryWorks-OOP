@@ -1,0 +1,15 @@
+C:\Users\Timofey\source\repos\Lab5_OOP\Lab5_OOP\bin\Debug\net10.0\Lab5_OOP.exe
+C:\Users\Timofey\source\repos\Lab5_OOP\Lab5_OOP\bin\Debug\net10.0\Lab5_OOP.deps.json
+C:\Users\Timofey\source\repos\Lab5_OOP\Lab5_OOP\bin\Debug\net10.0\Lab5_OOP.runtimeconfig.json
+C:\Users\Timofey\source\repos\Lab5_OOP\Lab5_OOP\bin\Debug\net10.0\Lab5_OOP.dll
+C:\Users\Timofey\source\repos\Lab5_OOP\Lab5_OOP\bin\Debug\net10.0\Lab5_OOP.pdb
+C:\Users\Timofey\source\repos\Lab5_OOP\Lab5_OOP\obj\Debug\net10.0\Lab5_OOP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Timofey\source\repos\Lab5_OOP\Lab5_OOP\obj\Debug\net10.0\Lab5_OOP.AssemblyInfoInputs.cache
+C:\Users\Timofey\source\repos\Lab5_OOP\Lab5_OOP\obj\Debug\net10.0\Lab5_OOP.AssemblyInfo.cs
+C:\Users\Timofey\source\repos\Lab5_OOP\Lab5_OOP\obj\Debug\net10.0\Lab5_OOP.csproj.CoreCompileInputs.cache
+C:\Users\Timofey\source\repos\Lab5_OOP\Lab5_OOP\obj\Debug\net10.0\Lab5_OOP.dll
+C:\Users\Timofey\source\repos\Lab5_OOP\Lab5_OOP\obj\Debug\net10.0\refint\Lab5_OOP.dll
+C:\Users\Timofey\source\repos\Lab5_OOP\Lab5_OOP\obj\Debug\net10.0\Lab5_OOP.pdb
+C:\Users\Timofey\source\repos\Lab5_OOP\Lab5_OOP\obj\Debug\net10.0\Lab5_OOP.genruntimeconfig.cache
+C:\Users\Timofey\source\repos\Lab5_OOP\Lab5_OOP\obj\Debug\net10.0\ref\Lab5_OOP.dll
+C:\Users\Timofey\source\repos\Lab5_OOP\Lab5_OOP\obj\Debug\net10.0\Lab5_OOP.csproj.Up2Date
